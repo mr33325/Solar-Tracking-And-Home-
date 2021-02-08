@@ -14,6 +14,7 @@
     8. Mobile monitoring via IoT
     
 Requirements:
+
 2 AXIS PAN TILT CAMERA MOUNT FOR CAMERA/SENSORS  (Black)	1
 SG 90 servo motor ( if fits to 2 axis tilt pan) 	2
 jumper wire(M-M , M-F, F-F)	120
