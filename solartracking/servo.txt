@@ -1,0 +1,2 @@
+digitalWrite(5,HIGH);  clockwise
+digitalWrite(6,LOW);
