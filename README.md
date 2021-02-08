@@ -21,10 +21,10 @@ Requirements:
     Bread board	1
     controller board	1
     Esp 32	1
-     I2C interface	1
+    I2C interface	1
     rechargeable battery 6v	2
     solar panel	2
-     Buck Converter Step Down Module	1
+    Buck Converter Step Down Module	1
     Robodo DHT11 	1
     IRF540n	4
     Zero pcb(4"x4")	1
@@ -51,5 +51,6 @@ Requirements:
 
 
 Features to be added:
-   a. Auto Solar to ac Power switching
-   b. Power consumption minimization and monitoring
+
+    a. Auto Solar to ac Power switching
+    b. Power consumption minimization and monitoring
